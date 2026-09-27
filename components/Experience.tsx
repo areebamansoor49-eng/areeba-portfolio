@@ -41,7 +41,7 @@ const experiences = [
   },
   {
     number: "02",
-    period: "2025",
+    period: "2026",
     type: "INTERNSHIP",
     title: "Software Development Intern",
     organization: "DecodeLabs",

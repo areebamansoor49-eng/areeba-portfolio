@@ -21,7 +21,7 @@ const experience = [
   {
     title: "Software Development Intern",
     company: "DecodeLabs · Remote",
-    date: "2025",
+    date: "2026",
     description:
       "Completed a 4-week remote unpaid internship with practical development work, including DevBoard and TaskFlow API.",
   },
