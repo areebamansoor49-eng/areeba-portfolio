@@ -104,7 +104,7 @@ export default function Contact() {
           >
             {/* Email */}
             <a
-              href="mailto:Ariba.dm052@gmail.com"
+              href="mailto:areeba.dm052@gmail.com"
               className="group rounded-[22px] border border-white/10 bg-white/[0.025] p-6 transition-all duration-500 hover:-translate-y-1 hover:border-[#d4af37]/30 hover:bg-[#d4af37]/[0.035]"
             >
               <div className="flex items-start justify-between">
@@ -121,7 +121,7 @@ export default function Contact() {
               </p>
 
               <p className="mt-2 break-all text-sm font-bold text-white/70">
-                Ariba.dm052@gmail.com
+                areeba.dm052@gmail.com
               </p>
             </a>
 

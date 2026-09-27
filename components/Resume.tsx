@@ -226,11 +226,11 @@ export default function Resume() {
                   <p>Karachi, Pakistan</p>
 
                   <a
-                    href="mailto:Ariba.dm052@gmail.com"
+                    href="mailto:areeba.dm052@gmail.com"
                     className="flex items-center gap-2 transition-colors hover:text-[#8b6b20] md:justify-end"
                   >
                     <Mail size={12} />
-                    Ariba.dm052@gmail.com
+                    areeba.dm052@gmail.com
                   </a>
 
                   <p>linkedin.com/in/areeba-mansoor-7b307134b/</p>
